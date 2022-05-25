@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**ozturk-ozgur/ozturk-ozgur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, ich bin Özgür.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Ich bin Student bei DCI.
+ 
+- 🌱 Ich lerne Web-Entwicklung.
+ 
+- 👯 Front- und Backend sind meine Arbeitsbereiche.
+ 
+- 🤔 Für Neuigkeiten bin ich immer offen.
+ 
+
+
+
+- 📫 Wie kannst du mich erreichen : E-Mail : enesoz1381@icloud.com
+
